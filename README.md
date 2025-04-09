@@ -11,7 +11,6 @@ This repository showcases our TIE Project developed at the University of Canberr
 - `TIE Assignment Electric Plus.pdf` – Full patent-style group report  
 - `2nd TIE Presentation.pdf` – Final group presentation slides  
 - `Design for Volthitch.png` – Final concept drawing/design  
-- `Industry and Ethics Analysis Guidance.pdf` – Project brief from the unit
 
 ## 👩‍💻 Contributors
 - Myeisha Foo 
